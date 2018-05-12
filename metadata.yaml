@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25629'
     url: http://www.gutenberg.org/2009/agents/25629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29651#Mademoiselle-de-la-Seigli-reCom-die-en-quatre-actes-en-prose
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2009-08-09'
 gutenberg_type: Text
